@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPIPlay", "MinimalAPIPlay\MinimalAPIPlay.csproj", "{2FF11691-EA35-4E7A-BC94-CDF6130A2BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF11691-EA35-4E7A-BC94-CDF6130A2BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF11691-EA35-4E7A-BC94-CDF6130A2BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF11691-EA35-4E7A-BC94-CDF6130A2BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF11691-EA35-4E7A-BC94-CDF6130A2BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2061E71-91AB-4DBE-A9A3-B62BB571565C}
+	EndGlobalSection
+EndGlobal
